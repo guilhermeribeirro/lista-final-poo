@@ -1,0 +1,15 @@
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.csproj.AssemblyReference.cache
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.AssemblyInfoInputs.cache
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.AssemblyInfo.cs
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.csproj.CoreCompileInputs.cache
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\bin\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.exe
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\bin\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.deps.json
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\bin\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.runtimeconfig.json
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\bin\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.dll
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\bin\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.pdb
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.dll
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\refint\LISTA - FINAL POO EXERCÍCIO 5.dll
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.pdb
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\LISTA - FINAL POO EXERCÍCIO 5.genruntimeconfig.cache
+C:\Users\gui-s\OneDrive\Área de Trabalho\LISTA FINAL POO\LISTA - FINAL POO EXERCÍCIO 5\LISTA - FINAL POO EXERCÍCIO 5\obj\Debug\net6.0\ref\LISTA - FINAL POO EXERCÍCIO 5.dll
